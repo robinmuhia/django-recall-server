@@ -1,0 +1,15 @@
+.env
+venv/
+*.pyc
+.vscode
+logs
+db.sqlite3
+media/
+__pycache__/
+.idea
+.DS_Store
+db_m.py
+.python-version
+env.sh
+.pytest_cache
+.coverage
